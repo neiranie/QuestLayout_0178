@@ -1,2 +1,3 @@
-package com.example.pertemuan4
-
+@Composable
+fun ActivitasPertama(modifier: Modifier) {
+    Column(
